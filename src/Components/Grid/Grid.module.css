@@ -1,0 +1,25 @@
+.box {
+  border: 1px solid black;
+  border-radius: 5px;
+  width: 30px;
+  height: 30px;
+  margin: 10px;
+  padding: 10px;
+  padding-top: 20px;
+  text-align: center;
+  flex: 1;
+}
+
+.box :hover {
+  background: #cecece;
+}
+
+.rowFlex {
+  display: flex;
+  flex: 1;
+  flex-direction: row;
+  outline: 1px solid black;
+  padding: 20px;
+  margin: 5px;
+  border-radius: 10px;
+}

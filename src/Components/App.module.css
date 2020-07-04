@@ -1,0 +1,17 @@
+.text {
+  border: 0px;
+  border-radius: 2px;
+  font-size: 20px;
+  width: 200px;
+  min-height: 150px;
+}
+
+.button {
+  border-radius: 5px;
+  font-size: 14px;
+  padding: 10px;
+}
+
+.mt2 {
+  margin-top: 2rem;
+}
